@@ -1,0 +1,68 @@
+
+
+h1{
+    text-align: center;
+    color: #dc3545;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+
+    height: 100%;
+    background-color: #ffffff;
+}
+
+
+.country{
+
+    text-align: center;
+    margin: auto;
+}
+
+#input{
+
+    width: 22rem;
+    height: 35px;
+    border-radius: 5px;
+    color: black;
+    border: 1px solid #ced4da;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.country_info{
+
+    padding-top: 50px;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+
+.country_flag{
+
+    width: 100%;
+
+}
+
+.card{
+    /* box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important; */
+    box-shadow: 0 1rem 3rem rgba(185, 29, 29, 0.175)!important;
+}
+
+/* ul{
+
+    list-style: none;
+    margin: auto;
+}
+
+
+li{
+    float: left;
+
+    height: 30px;
+    width: 100%;
+    margin: auto;
+    border: 1px solid rgba(0,0,0,.125);
+} */
